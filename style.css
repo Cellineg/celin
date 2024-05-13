@@ -1,0 +1,56 @@
+.pendidikan {
+     background-color: cornsilk;
+     border-radius: 5%;
+     margin-right: 60%;
+     font-style: oblique;
+     display: flex;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pengalaman {
+    background-color: cornsilk;
+    border-radius: 2%;
+    margin-right: 60%;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.skill {
+    background-color: cornsilk;
+    border-radius: 2%;
+    margin-right: 60%;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bahasa {
+    background-color: cornsilk;
+    border-radius: 2%;
+    margin-right: 60%;
+    font-style: oblique;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.captions {
+    background-color: antiquewhite;
+    margin-right: 72%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Q_zOxblNuVnKWmTfwHC6-hYOZlQd377T0mawEfv3uQ&s);
+}
+
+.bground {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Q_zOxblNuVnKWmTfwHC6-hYOZlQd377T0mawEfv3uQ&s);
+}
+
+.hihi {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVNbsiRw1xhRJ5WZaiLYlMFqhecFmzTltKg&s);
+    border-radius: 10%;
+}
+
+.no {
+    background-color: cornsilk;
+    border-radius: 5%;
+    font-style: oblique;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
